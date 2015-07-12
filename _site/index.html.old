@@ -56,9 +56,6 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="/blog">Blog</a>
-                    </li>
-                    <li>
                         <a class="page-scroll" href="#resume">Resume</a>
                     </li>
                     <li>
@@ -106,17 +103,6 @@
                 <p>
                 Has presented at many different technology conferences on various topics; as well as Makerfaire events across the United States, including <a href='http://makerfaire.com/bay-area-2014/'>San Francisco</a>, <a href='http://www.thehenryford.org/events/makerFaire.aspx'>Detroit</a>, and <a href='http://makerfaire.com/new-york-2014/'>New York</a>.</p>
                 <p>Multidisciplinary software engineer with comprehensive experience in application engineering, devops, front and back end development, and vision programming.  Over 10+ years experience working in manufacturing deploying robotics, computer vision, software, and data analysis tools. He continues to educate himself in numerous technologies, some of which maybe documented on this site.</p>
-            </div>
-        </div>
-    </section>
-    <!-- Blog Section -->
-    <section id="blog" class="content-section text-center">
-        <div class="blog-section">
-            <div class="container">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <h2>Blog</h2>
-                    <a href="/blog/" class="btn btn-default btn-lg">Read my blog</a>
-                </div>
             </div>
         </div>
     </section>

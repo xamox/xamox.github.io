@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<div class="post">
+	<div class="row">
+		<div id="page_heading" property="dc:title" datatype>
+			<h2 class="page_heading_text">{{ page.title }}</h2>
+		</div>
+	</div>
+
+	<div class="row">
+		<div id ="main_content_wrap" class="span10">
+			<div id="main_content">
+
+				<div class="region region-content">
+					<div id="block-system-main" class="block block-system">
+
+						<div class="content">
+
+							<div class="article_content">
+
+								<article class="post-content" typeof="sioc:Item foaf:Document">
+								  <text class="date-timestamp" property="dc:date" datatype>{{ page.date | date: "%b %-d, %Y" }}</text>
+								   <hr>
+									{{ content }}
+								</article>
+
+								<a href="/blog/"><- back</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
